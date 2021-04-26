@@ -1525,10 +1525,42 @@ a {
   text-align: right;
 }
 .cid-svFLb8uwnw {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #9ece9c;
 }
 .cid-svFLb8uwnw .media-container-row .mbr-text {
   color: #124c10;
+}
+.cid-svFO0jMI49 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #9ece9c;
+}
+.cid-svFO0jMI49 .mbr-text {
+  color: #777d74;
+}
+.cid-svFO0jMI49 .mbr-iconfont {
+  color: #232323;
+  font-size: 1rem;
+}
+.cid-svFO0jMI49 .icon-wrapper {
+  width: 40px;
+  height: 40px;
+  background: transparent;
+  border: 1px solid #777d74;
+  border-radius: 50%;
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s;
+  margin: 0 0.5rem;
+}
+.cid-svFO0jMI49 .icon-wrapper:hover {
+  background: #124c10;
+}
+.cid-svFO0jMI49 .wrapper {
+  display: flex;
+  justify-content: center;
 }
