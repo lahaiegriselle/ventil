@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "ventil",
+    "name": "experts hoods",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -46,14 +46,29 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "imageResize": false,
+    "imageResize": true,
     "uniqCompNum": 22,
     "versionPublish": "5.3.2",
     "screenshot": "screenshot.png",
-    "chatbutton": {},
+    "chatbutton": {
+      "phone": "+972-053-450-9058",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Hi!👋\n\nType a message here. ",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": "0",
+      "headerColor": "#39847a",
+      "headerTitle": "👋 Chat with us on WhatsApp!",
+      "placeholder": "Type here",
+      "zIndex": 10,
+      "enabled": true
+    },
     "lazyLoad": true,
     "favicon": false,
-    "mbrsiteDomain": "tnajsytemh",
+    "mbrsiteDomain": "fkemqkcsv8",
     "cssOptimize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -69,11 +84,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "התקשר אלינו ישירות בלחיצה ",
+        "meta_descr": "יקיון תחזוקה, ניקיון ותיקון ברדסים מקצועיים למטבח\n\n\nשירותי הניקיון שלנו\nעבור כל מכסה המנוע למטבח, צינור הפליטה, צרכי ניקוי מנוע הפליטה וכן התערבויות שונות במערכות האוורור שלך, הטכנאים שלנו יחזרו אליך תוך שעתיים.\n",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/logo-expert-160x138.png"
       },
       "components": [
         {
