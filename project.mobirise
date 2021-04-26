@@ -50,25 +50,9 @@
     "uniqCompNum": 26,
     "versionPublish": "5.3.2",
     "screenshot": "screenshot.png",
-    "chatbutton": {
-      "phone": "+972-053-450-9058",
-      "message": "",
-      "size": "65px",
-      "backgroundColor": "#e5ddd5",
-      "position": "left",
-      "popupMessage": "Hi!👋\n\nType a message here. ",
-      "showPopup": true,
-      "showOnIE": true,
-      "autoOpenTimeout": "0",
-      "headerColor": "#39847a",
-      "headerTitle": "👋 Chat with us on WhatsApp!",
-      "placeholder": "Type here",
-      "zIndex": 10,
-      "enabled": true
-    },
     "lazyLoad": false,
     "favicon": false,
-    "mbrsiteDomain": "6nrziawasy",
+    "mbrsiteDomain": "eyydapv0yk",
     "cssOptimize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -78,7 +62,8 @@
     "gdpr": false,
     "pwa-switcher": false,
     "witsec-white-label": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "chatbutton": false
   },
   "pages": {
     "index.html": {
